@@ -8,4 +8,3 @@ elif M == Q:
     print(P+R)
 else:
     print(P+Q)
-
